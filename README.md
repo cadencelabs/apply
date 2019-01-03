@@ -9,3 +9,4 @@ Thank you for your interest in our open position. To submit your application, pl
 5. Commit your changes and push them to github under your `github-username` branch
 6. Make a pull request to this repository from your `github-username` branch
 
+_If you'd prefer to submit your resume separately, please email it to careers@cadence-labs.com with a link to your github repository_
